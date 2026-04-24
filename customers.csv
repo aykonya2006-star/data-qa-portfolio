@@ -1,0 +1,9 @@
+customer_id,name,age,email,country
+1,Алия,28,aliya@gmail.com,KZ
+2,Марат,-3,marat@gmail.com,KZ
+3,Дана,35,dana_gmail.com,RU
+4,Сергей,30,sergey@gmail.com,XX
+5,Асель,22,asel@gmail.com,KZ
+6,Асель,22,asel@gmail.com,KZ
+7,Тимур,200,timur@gmail.com,KZ
+8,,25,anna@gmail.com,RU
